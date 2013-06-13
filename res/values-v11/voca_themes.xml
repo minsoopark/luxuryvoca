@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Voca" parent="android:Theme.Holo.Light">
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/btn_check_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonVoca</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonVoca</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarVoca</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarVoca</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/activated_background_holo_light</item>
+
+  </style>
+
+</resources>
